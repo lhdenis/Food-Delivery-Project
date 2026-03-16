@@ -267,7 +267,7 @@ This means:
 
 Argo CD is therefore responsible for **deploying and synchronizing** the Kubernetes environment.
 
-![Cloud architecture](https://github.com/lhdenis/Deployment-Delivery-Project/blob/main/pipeline_jenkins.png)
+![Cloud architecture](https://github.com/lhdenis/Food-Delivery-Project/blob/main/pipeline_jenkins.png)
 
 ---
 
