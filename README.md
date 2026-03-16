@@ -25,6 +25,7 @@ This project is split across multiple repositories:
 - [user-service](https://github.com/lhdenis/user-service) – manages user information
 - [order-service](https://github.com/lhdenis/order-service) – handles order creation and persistence
 - [deployment-manifests](https://github.com/lhdenis/deployment-folder) – Kubernetes manifests and deployment configuration
+- [eureka-service](htp://github/com/lhdenis/eureka-service) - service discovery between backend microservices.
 
 ## Key Features
 
