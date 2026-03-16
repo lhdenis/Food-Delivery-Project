@@ -15,6 +15,17 @@ This project is a full-stack food delivery application built with **Angular**, *
 
 It demonstrates how to design, containerize, deploy, and automate a modern microservices-based application using a cloud-native architecture.
 
+## Repositories
+
+This project is split across multiple repositories:
+
+- [frontend-angular](https://github.com/ton-org/frontend-angular) – Angular frontend application
+- [restaurant-listing-service](https://github.com/ton-org/restaurant-listing-service) – manages restaurant data
+- [food-catalog-service](https://github.com/ton-org/food-catalog-service) – manages food items and restaurant menus
+- [user-service](https://github.com/ton-org/user-service) – manages user information
+- [order-service](https://github.com/ton-org/order-service) – handles order creation and persistence
+- [deployment-manifests](https://github.com/ton-org/deployment-manifests) – Kubernetes manifests and deployment configuration
+
 ## Key Features
 
 - Display a list of restaurants
