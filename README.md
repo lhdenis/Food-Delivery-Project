@@ -129,7 +129,7 @@ Eureka is therefore an **infrastructure component**, not a business service.
 
 ### 4. Databases
 
-The project uses **polyglot persistence**, meaning different services use different storage technologies depending on their needs.
+The project uses use different storage technologies depending on services needs.
 
 #### Relational database: Amazon RDS (MySQL)
 
