@@ -15,8 +15,6 @@ This project is a full-stack food delivery application built with **Angular**, *
 
 It demonstrates how to design, containerize, deploy, and automate a modern microservices-based application using a cloud-native architecture.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Key Features
 
 - Display a list of restaurants
@@ -25,8 +23,6 @@ It demonstrates how to design, containerize, deploy, and automate a modern micro
 - Manage user-related data through a dedicated microservice
 - Deploy the application on AWS with Kubernetes
 - Automate build, quality checks, and deployment through CI/CD
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
 
@@ -40,8 +36,6 @@ It demonstrates how to design, containerize, deploy, and automate a modern micro
 - **CD:** Argo CD
 - **Code Quality:** JUnit / SonarQube
 - **Cloud Platform:** AWS
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Architecture
 
