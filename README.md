@@ -6,6 +6,10 @@
     <li><a href="#key-features">Key Features</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#project-architecture">Project Architecture</a></li>
+    <li><a href="#project-architecture">Project Architecture</a></li>
+    <li><a href="#cloud-deployment">Project Architecture</a></li>
+    <li><a href="#ci-cd-pipeline">Project Architecture</a></li>
+    <li><a href="#project-architecture">Project Architecture</a></li>
   </ol>
 </details>
 
@@ -175,7 +179,7 @@ Below is the high-level view of the application in local development:
 
 ---
 
-## 5. Cloud Deployment
+## Cloud Deployment
 
 The application is deployed on **AWS** using a cloud-native architecture.
 
@@ -200,7 +204,7 @@ Below is the high-level cloud deployment architecture:
 
 ---
 
-## 7. Networking and Exposure
+## Networking and Exposure
 
 The application is exposed through an **AWS Load Balancer** configured with **Ingress**.
 
@@ -229,7 +233,7 @@ This approach improves:
 
 ---
 
-## 8. Code Quality and Testing
+## Code Quality and Testing
 
 The project integrates **JUnit** unit tests and **SonarQube** quality analysis.
 
@@ -243,7 +247,7 @@ This is especially important before deploying changes automatically through CI/C
 
 ---
 
-## 9. CI/CD Pipeline
+## CI/CD Pipeline
 
 The project uses a complete CI/CD workflow with **GitHub**, **Jenkins**, and **Argo CD**.
 
@@ -277,7 +281,7 @@ Argo CD is therefore responsible for **deploying and synchronizing** the Kuberne
 
 ---
 
-## 10. End-to-End Functional Flow
+## End-to-End Functional Flow
 
 From a user perspective, the application works as follows:
 
