@@ -9,7 +9,7 @@
     <li><a href="#cloud-deployment">Cloud Deployment</a></li>
     <li><a href="#networking-and-exposure">Networking and Exposure</a></li>
     <li><a href="#code-quality-and-testing"> Code Quality and Testing</a></li>
-    <li><a href="#ci/cd-pipeline"> CI/CD Pipeline</a></li>
+    <li><a href="#ci-cd-pipeline"> CI/CD Pipeline</a></li>
     <li><a href="#end-to-end-functional-flow">End-to-End Functional Flow</a></li>
   </ol>
 </details>
