@@ -165,7 +165,7 @@ Because the frontend and backend do not run on the same port, **CORS configurati
 
 Below is the high-level view of the application in local development:
 
-![Local architecture](https://github.com/lhdenis/Food-Delivery-Project/blob/master/angular_springboot.png)
+![Local architecture](https://github.com/lhdenis/Food-Delivery-Project/blob/main/angular_springboot.png)
 
 ---
 
@@ -190,7 +190,7 @@ This makes the application:
 
 Below is the high-level cloud deployment architecture:
 
-![Cloud architecture](https://github.com/lhdenis/Food-Delivery-Project/blob/master/architecture_kubernetes.png)
+![Cloud architecture](https://github.com/lhdenis/Food-Delivery-Project/blob/main/architecture_kubernetes.png)
 
 ---
 
@@ -267,7 +267,7 @@ This means:
 
 Argo CD is therefore responsible for **deploying and synchronizing** the Kubernetes environment.
 
-![Cloud architecture](https://github.com/lhdenis/deployment-folder/blob/master/pipeline_jenkins.png)
+![Cloud architecture](https://github.com/lhdenis/Deployment-Delivery-Project/blob/main/pipeline_jenkins.png)
 
 ---
 
