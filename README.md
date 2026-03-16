@@ -22,9 +22,9 @@ This project is split across multiple repositories:
 - [frontend-angular](https://github.com/lhdenis/food-delivery-app-frontend) – Angular frontend application
 - [restaurant-listing-service](https://github.com/lhdenis/restaurant-listing-service) – manages restaurant data
 - [food-catalog-service](https://github.com/ton-org/food-catalog-service) – manages food items and restaurant menus
-- [user-service](https://github.com/ton-org/user-service) – manages user information
-- [order-service](https://github.com/ton-org/order-service) – handles order creation and persistence
-- [deployment-manifests](https://github.com/ton-org/deployment-manifests) – Kubernetes manifests and deployment configuration
+- [user-service](https://github.com/lhdenis/user-service) – manages user information
+- [order-service](https://github.com/lhdenis/order-service) – handles order creation and persistence
+- [deployment-manifests](https://github.com/lhdenis/deployment-folder) – Kubernetes manifests and deployment configuration
 
 ## Key Features
 
